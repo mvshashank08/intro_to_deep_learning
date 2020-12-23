@@ -1,5 +1,5 @@
-# intro_to_deep_learning
-This repository contains the examples of various concepts from deep learning.
+# Introduction to Deep Learning
+This repository contains the code for the Medium article "[A Quick Hands-on Intro to Deep Learning](https://medium.com/@mvshashank08/a-quick-hands-on-intro-to-deep-learning-f12cd5cbf2f9)". It introduces several fundamental concepts of Deep Learning.
 ## Setup
 - Download [Python](https://www.python.org/)
 - Run `pip3 install --upgrade pip`
